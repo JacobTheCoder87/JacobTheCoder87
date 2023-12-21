@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **data science projects**
 
-- 🌱 I’m currently learning **Machine Learning, Advanced Statistics, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Advanced Statistics and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://jacobthecoder87.github.io/](https://jacobthecoder87.github.io/)
 
