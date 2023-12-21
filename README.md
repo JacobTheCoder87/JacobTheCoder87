@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobthecoder87&label=Profile%20views&color=0e75b6&style=flat" alt="jacobthecoder87" /> </p>
 
-- 🔭 I’m currently working on **learning about everything Data Science**
+- 🔭 I’m currently working on **data science projects**
 
-- 🌱 I’m currently learning **Machine Learning, Advanced Statistics, Python, Python Libraries**
+- 🌱 I’m currently learning **Machine Learning, Advanced Statistics, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://jacobthecoder87.github.io/](https://jacobthecoder87.github.io/)
 
