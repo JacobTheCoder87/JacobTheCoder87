@@ -1,4 +1,3 @@
-[![Data Science](https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg)](https://jacobthecoder87.github.io/) 
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">I am a Data Science Practitioner who is passionate about telling stories</h3>
 <img align="right" alt="Data Science" width="518" src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif">
